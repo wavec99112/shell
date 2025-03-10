@@ -1,0 +1,13 @@
+# Core dependencies (already in Python standard library)
+socket
+threading
+ssl
+base64
+
+# Optional enhancements
+colorama>=0.4.6        # 更好的跨平台终端颜色支持
+prompt_toolkit>=3.0.0   # 更好的命令行交互体验
+cryptography>=40.0.0   # 增强的加密功能支持
+pyOpenSSL>=23.0.0      # SSL证书管理增强
+requests>=2.28.0       # 用于后续功能扩展
+psutil>=5.9.0         # 系统监控增强功能
