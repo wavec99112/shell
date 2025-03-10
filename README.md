@@ -93,7 +93,7 @@ python shell.py 4444 true
 
 ## 维护者
 Wave-C9
-- GitHub: https://github.com/Wave-C9
+- GitHub:https://github.com/wavec99112
 - 项目开发与维护
 
 ## 许可证
